@@ -1,0 +1,3 @@
+interface:
+  display_name: "Astro Timelapse"
+  short_description: "Star-trail, comet-tail and time-lapse videos from a night-sky photo sequence"

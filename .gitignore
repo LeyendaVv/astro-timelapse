@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.astro_work/
+.DS_Store
+Thumbs.db
