@@ -60,3 +60,7 @@ compositing path).
 Satellite and aircraft lines are not removed. The rotation model is one angle
 per frame index, so a sequence with irregular spacing must be trimmed to its
 longest evenly spaced run first (`check_intervals.py` tells you which).
+
+## License
+
+MIT - see [LICENSE](LICENSE).
